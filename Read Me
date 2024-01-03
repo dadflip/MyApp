@@ -1,0 +1,5 @@
+Getting Started :
+
+You can install the command myapp-extension-installer (alias: myapp-exe) by running :
+chmod +x myapp-exe-installer.sh
+./myapp-exe-installer.sh
